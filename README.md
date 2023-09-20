@@ -1,4 +1,4 @@
-# Simple Todo-App
+# Simple-Todo-App
 
 <b> <code>Intentions:</code> </b>
 
