@@ -16,4 +16,4 @@ Strength my full stack skills with html, css, and javascript by creative a Todo 
 <b><link>https://quickstarts.postman.com/guide/express/index.html?index=..%2F..index#0</link><b>
 
 <b> <code>Output:</code> </b>
-<p>hi</p>
+![Screenshot 2023-09-20 at 4 07 26 PM](https://github.com/hayde0264/Todo-App/assets/109105989/249061ce-118c-4e05-9435-92dd19e5aec4)
